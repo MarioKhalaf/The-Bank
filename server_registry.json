@@ -1,0 +1,54 @@
+{
+    "Accounts": [
+        {
+            "Bank ID": 50,
+            "Name": "Gabbe",
+            "Balance": 65000,
+            "Address": "Solna"
+        },
+        {
+            "Bank ID": 159,
+            "Name": "Tony",
+            "Balance": 5000,
+            "Address": "Huddinge"
+        },
+        {
+            "Bank ID": 127,
+            "Name": "Noel",
+            "Balance": 600,
+            "Address": "Norsborg"
+        },
+        {
+            "Bank ID": 156,
+            "Name": "Lucas",
+            "Balance": 107000,
+            "Address": "Huddinge"
+        },
+        {
+            "Bank ID": 147,
+            "Name": "Nicklas",
+            "Balance": 1645,
+            "Address": "Kiruna"
+        },
+        {
+            "Bank ID": 55,
+            "Name": "Mario",
+            "Balance": 2645,
+            "Address": "Stockholm"
+        }
+    ],
+    "locked": [
+        {
+            "Bank ID": 105,
+            "Name": "Peter",
+            "Balance": 544,
+            "Address": "Uppsala"
+        },
+        {
+            "Bank ID": 161,
+            "Name": "Robert",
+            "Balance": 30000,
+            "Address": "Stockholm"
+        }
+    ]
+}

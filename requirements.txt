@@ -1,0 +1,6 @@
+autopep8
+coverage
+flake8
+tox
+pytest==7.1.3
+tabulate
